@@ -14,3 +14,4 @@ Example: "X:\Windows Setup.bat"
 * If your computer spontaneously turns off, turn it back on. Do not boot from the flash drive. It should start setup as if it was booting from a normal CD.
 * Do not make partition changes from setup.
 * If asked to convert any drives to NTFS, choose NO. 
+* If setup fails to copy any files containing "zune," skip them. If setup fails to copy "shellstyle.dll," skip it, too.
