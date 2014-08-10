@@ -21,7 +21,7 @@ echo.
 echo ** Whenever you're ready,
 echo.
 PAUSE
-X:\Programs\Windows Setup\I386\winnt32.exe /syspart:C: /tempdrive:C: /makelocalsource
+X:\I386\winnt32.exe /syspart:C: /tempdrive:C: /makelocalsource
 SHUTDOWN -r -c "Setup will resume after restarting.." -t 10
 :: Copyright 2014 amanon49@gmail.com
 :: Artistic License 2.0
